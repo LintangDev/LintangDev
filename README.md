@@ -8,9 +8,9 @@
 
 <h2>📝 About Me</h2>
 
-- 🔭 I just launched a bot music discord [Retro Box][website]!
+- 🤖 I just launched a bot music discord [Retro Box][website]!
 - 🎒 I’m currently studying at [Smp Telkom Bandung][websitesekolah]
-- 🔭 I'm Currently Learning PHP
+- 📖 I'm Currently Learning [PHP][php]
 
 ### 📞 Contact Me:
 
@@ -40,3 +40,4 @@
 [youtube]: https://www.youtube.com/channel/UCRnuz1TpWblxoihTRh3lmEg
 [instagram]:https://instagram.com/lintaangs
 [websitesekolah]: https://smptelkom-bdg.sch.id
+[php]: https://www.php.net
