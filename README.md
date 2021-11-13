@@ -14,7 +14,7 @@
 
 ### 📞 Contact Me:
 
-[<img align="left" alt="LintangDev | YouTube" width="22px" src="https://cdn-icons.flaticon.com/png/512/2374/premium/2374449.png?token=exp=1636821383~hmac=89c76fcf9b8f78f072838e6f0db85233" />][email]
+[<img align="left" alt="LintangDev | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />][email]
 [<img align="left" alt="LintangDev | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
 
 <br />
