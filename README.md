@@ -1,4 +1,4 @@
-<h1><img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width="30px">Hi there, I'm Lintang - aka LintangDev</h1>
+<h1><img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width="30px">Hi there!, I'm Lintang - aka LintangDev</h1>
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
 <img src="https://komarev.com/ghpvc/?username=LintangDev">
@@ -12,7 +12,7 @@
 - 🎒 I’m currently studying at [Smp Telkom Bandung][websitesekolah]
 - 🔭 I'm Currently Learning PHP
 
-### Connect with me:
+### Contact Me:
 
 [<img align="left" alt="LintangDev | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174883.png" />][youtube]
 [<img align="left" alt="LintangDev | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
