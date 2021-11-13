@@ -30,12 +30,11 @@
 
 ### Github Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LintangDev&theme=Javascript-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
 <img src="https://komarev.com/ghpvc/?username=LintangDev">
 </a>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LintangDev&theme=Javascript-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [website]: https://retro.my.id
 [email]: mailto:lintangch15@gmail.com
