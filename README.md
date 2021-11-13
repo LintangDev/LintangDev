@@ -5,8 +5,8 @@
 <h2>📝 About Me</h2>
 
 - 🤖 I just launched a bot music discord [Retro Box][website].
-- 🎒 I’m currently a student at [Smp Telkom Bandung][websitesekolah].
-- 📖 I'm Currently Learning [PHP][php].
+- 🎒 I’m currently studying at [Smp Telkom Bandung][websitesekolah].
+- 📖 I'm Currently Learning [LUA][lua].
 - 👨‍💻 This is new Github account so i will post about my project soon!
 
 ### 📞 Contact Me:
@@ -24,7 +24,7 @@
 <img height="32px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img height="32px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
 <img height="32px" align="left" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
-<img height="32px" align="left" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png">
+<img height="32px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png">
 
 <br />
 <br />
@@ -41,4 +41,4 @@
 [email]: mailto:lintangch15@gmail.com
 [instagram]:https://instagram.com/lintaangs
 [websitesekolah]: https://smptelkom-bdg.sch.id
-[php]: https://www.php.net
+[lua]: https://www.lua.org
