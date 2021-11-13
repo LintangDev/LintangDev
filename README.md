@@ -1,9 +1,5 @@
 <h1><img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width="30px">Hi there!, I'm Lintang - aka LintangDev</h1>
 
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-<img src="https://komarev.com/ghpvc/?username=LintangDev">
-</a>
-
 <h2>I'm Lintang Segoro Pinasih || And I'm a Beginner Full-Stack Developer.</h2>
 
 <h2>📝 About Me</h2>
@@ -35,6 +31,11 @@
 ### Github Stats:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LintangDev&theme=Javascript-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+<img src="https://komarev.com/ghpvc/?username=LintangDev">
+</a>
+
 
 [website]: https://retro.my.id
 [email]: mailto:lintangch15@gmail.com
