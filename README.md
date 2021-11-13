@@ -1,12 +1,13 @@
 <h1><img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width="30px"> Hi there!</h1>
 
-<h3>I'm Lintang Segoro Pinasih || And I'm a Beginner Full-Stack Developer.</h3>
+<h3>I'm Lintang Segoro Pinasih 13 Years Old 👱|| And I'm a Beginner Full-Stack Developer.</h3>
 
 <h2>📝 About Me</h2>
 
 - 🤖 I just launched a bot music discord [Retro Box][website].
 - 🎒 I’m currently studying at [Smp Telkom Bandung][websitesekolah].
 - 📖 I'm Currently Learning [PHP][php].
+- 👨‍💻 This is new Github account so i will post about my project soon!
 
 ### 📞 Contact Me:
 
