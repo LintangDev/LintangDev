@@ -14,7 +14,7 @@
 
 ### 📞 Contact Me:
 
-[<img align="left" alt="LintangDev | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174883.png" />][youtube]
+[<img align="left" alt="LintangDev | YouTube" width="22px" src="https://cdn-icons.flaticon.com/png/512/2374/premium/2374449.png?token=exp=1636821383~hmac=89c76fcf9b8f78f072838e6f0db85233" />][email]
 [<img align="left" alt="LintangDev | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
 
 <br />
@@ -37,7 +37,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LintangDev&theme=Javascript-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [website]: https://retro.my.id
-[youtube]: https://www.youtube.com/channel/UCRnuz1TpWblxoihTRh3lmEg
+[email]: emailto:lintangch15@gmail.com
 [instagram]:https://instagram.com/lintaangs
 [websitesekolah]: https://smptelkom-bdg.sch.id
 [php]: https://www.php.net
