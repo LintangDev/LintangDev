@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width="30px">>Hi there, I'm Lintang - aka LintangDev 👋 
+<img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width="30px">Hi there, I'm Lintang - aka LintangDev
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
 <img src="https://komarev.com/ghpvc/?username=LintangDev">
