@@ -12,14 +12,14 @@
 - 🎒 I’m currently studying at [Smp Telkom Bandung][websitesekolah]
 - 🔭 I'm Currently Learning PHP
 
-### Contact Me:
+### 📞 Contact Me:
 
 [<img align="left" alt="LintangDev | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174883.png" />][youtube]
 [<img align="left" alt="LintangDev | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
 
 <br />
 
-### Languages and Tools:
+### ⌨️ Languages and Tools:
 
 <img height="32px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> 
 <img height="32px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
