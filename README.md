@@ -7,7 +7,6 @@
 <h2>I'm a Beginner Developer || And My Name Is Lintang Segoro Pinasih.</h2>
 
 <h2>📝 About Me</h2>
-### 
 
 - 🔭 I just launched a bot music discord: [Retro Box][website]!
 - 🎒 I’m currently studying at Smp Telkom Bandung
