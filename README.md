@@ -4,7 +4,7 @@
 <img src="https://komarev.com/ghpvc/?username=LintangDev">
 </a>
 
-<h2>I'm a Beginner Developer || And My Name Is Lintang Segoro Pinasih.</h2>
+<h2>I'm Lintang Segoro Pinasih || And I'm a Beginner Full-Stack Developer.</h2>
 
 <h2>📝 About Me</h2>
 
