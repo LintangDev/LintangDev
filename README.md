@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width="30px">Hi there, I'm Lintang - aka LintangDev
+<img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif">Hi there, I'm Lintang - aka LintangDev 👋 
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
 <img src="https://komarev.com/ghpvc/?username=LintangDev">
@@ -7,6 +7,8 @@
 <h2>I'm a Beginner Developer || And My Name Is Lintang Segoro Pinasih.</h2>
 
 <h2>📝 About Me</h2>
+### 
+
 - 🔭 I just launched a bot music discord: [Retro Box][website]!
 - 🎒 I’m currently studying at Smp Telkom Bandung
 - 🔭 I'm Currently Learning PHP
