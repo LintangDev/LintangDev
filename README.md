@@ -4,10 +4,8 @@
 
 <h2>📝 About Me</h2>
 
-- 🤖 I just launched a bot music discord [Retro Box][website].
 - 🎒 I’m currently student at [Smp Telkom Bandung][websitesekolah].
-- 📖 I'm Currently Learning [LUA][lua].
-- 👨‍💻 This is new Github account so i will post about my project soon!
+- 📝 Checkout My Portfolio Web [website][website].
 
 ### 📞 Contact Me:
 
@@ -41,7 +39,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LintangDev&theme=Javascript-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[website]: https://retro.my.id
+[website]: https://lintangdev.my.id
 [email]: mailto:lintangch15@gmail.com
 [instagram]:https://instagram.com/lintaangs
 [websitesekolah]: https://smptelkom-bdg.sch.id
