@@ -38,7 +38,7 @@
 </a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LintangDev&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-https://github-readme-stats.vercel.app/api/top-langs/?username=LintangDev&layout=compact&theme=dracula
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LintangDev&layout=compact&theme=dracula"/>
 
 [website]: https://lintangdev.my.id
 [email]: mailto:lintangch15@gmail.com
