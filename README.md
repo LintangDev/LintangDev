@@ -36,9 +36,6 @@
 
 ### 📊 Github Stats:
 
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-<img src="https://komarev.com/ghpvc/?username=LintangDev">
-</a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LintangDev&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LintangDev&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
