@@ -43,5 +43,5 @@
 
 [website]: https://lintangdev.my.id
 [email]: mailto:lintangch15@gmail.com
-[instagram]:
+[instagram]: https://instagram.com
 [websitesekolah]: https://smptelkom-bdg.sch.id
