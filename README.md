@@ -36,13 +36,12 @@
 <img src="https://komarev.com/ghpvc/?username=LintangDev">
 </a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LintangDev)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LintangDev&theme=github-dark-blue)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LintangDev&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 
 [website]: https://lintangdev.my.id
 [email]: mailto:lintangch15@gmail.com
-[instagram]:https://instagram.com/lintaangs
+[instagram]:
 [websitesekolah]: https://smptelkom-bdg.sch.id
-[lua]: https://www.lua.org
