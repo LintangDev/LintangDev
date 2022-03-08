@@ -5,7 +5,8 @@
 <h2>📝 About Me</h2>
 
 - 🎒 I’m currently student at [Smp Telkom Bandung][websitesekolah].
-- 📝 Checkout My Portfolio Web [website][website].
+- 📝 Checkout My Portfolio Web [Portfolio][portfolio].
+- 💻 Contributor On [@Bellshade][bellshade].
 
 ### 📞 Contact Me:
 
@@ -41,7 +42,8 @@
 
 
 
-[website]: https://lintangdev.my.id
+[portfolio]: https://lintangdev.my.id
 [email]: mailto:lintangch15@gmail.com
 [instagram]: https://instagram.com
 [websitesekolah]: https://smptelkom-bdg.sch.id
+[bellshade]: https://github.com/bellshade
