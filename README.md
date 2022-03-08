@@ -36,6 +36,7 @@
 <img src="https://komarev.com/ghpvc/?username=LintangDev">
 </a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LintangDev&show_icons=true&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LintangDev&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
