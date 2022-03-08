@@ -1,6 +1,6 @@
 <h1><img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width="30px"> Hi there!</h1>
 <p align="center">
- <img width="8%" src="https://wallpaperaccess.com/full/2825704.gif">
+ <img width="50%" src="https://wallpaperaccess.com/full/2825704.gif">
 
 </p>
 <h3>I'm Lintang Segoro Pinasih,i'm 13 Years Old 👱 Boy || And I'm a Beginner Full-Stack Developer.</h3>
